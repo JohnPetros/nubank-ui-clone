@@ -63,9 +63,7 @@ Recriação da interface do Nubank com animações para fins de estudos.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### **Mobile** ([React Native](http://www.reactnative.com/))
 
