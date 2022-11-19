@@ -4,9 +4,8 @@
 
 <div align="center">
    <a href="https://github.com/JohnPetros">
-      <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-yellow">
+      <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/size/JohnPetros/nubank-ui-clone">
    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/nubank-ui-clone">
    <a href="https://github.com/JohnPetros/nubank-ui-clone/commits/main">
       <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/nubank-ui-clone">
