@@ -35,10 +35,10 @@
 Recriação da interface do Nubank com animações para fins de estudos.
 
 ### Demonstração
-
+<div align="center">
 ![nubank-foto-1](https://user-images.githubusercontent.com/93893533/202856108-c2015e48-2adf-44ab-bdb2-39e847671b5f.png)
 ![nubank-foto-2](https://user-images.githubusercontent.com/93893533/202856110-9433d265-902e-4352-b999-b4bad99105db.png)
-
+</div>
 <hr>
 
 ## ✨ Funcionalidades
